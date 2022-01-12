@@ -1,0 +1,1 @@
+let date = new Date(); console.log(`Hoy es ${date.toLocaleDateString()} y la hora es ${date.getHours()}:${date.getMinutes()}`)
